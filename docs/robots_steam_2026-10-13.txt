@@ -10,3 +10,4 @@ Disallow: /join/?*redir=
 Disallow: /account/ackgift/
 Disallow: /email/
 Disallow: /widget/
+
